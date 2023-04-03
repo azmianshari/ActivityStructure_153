@@ -10,5 +10,5 @@ struct Mahasiswa {
 
 int main()
 {
-
+	Mahasiswa mhs1, mhs2;
 }
